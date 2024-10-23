@@ -33,6 +33,11 @@ a {
   color: white;
 }
 
+a {
+  text-align: inherit;
+  font-size: 20px;
+  color: white;
+}
 
 img {
   width: 300px;
