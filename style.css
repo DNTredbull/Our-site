@@ -27,16 +27,31 @@ p {
   margin-top: 10px;
 }
 
-a {
+.GunGala {
   text-align: inherit;
-  font-size: 20px;
-  color: white;
+  font-size: 40px;
+  color: yellow;
+  position: relative;
+  height: 250px;
+  margin: 400px;
+  padding: 30px;
+  border: 2px solid #cccccc;
+  background-color: blue;
+
+
 }
 
-a {
+.spreadsheets {
   text-align: inherit;
-  font-size: 20px;
-  color: white;
+  font-size: 40px;
+  color: yellow;
+  position: relative;
+  height: 250px;
+  margin: 50px;
+  padding: 50px;
+  border: 2px solid #cccccc;
+  background-color: blue;
+
 }
 
 img {
